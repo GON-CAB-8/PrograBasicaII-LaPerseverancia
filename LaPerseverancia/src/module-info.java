@@ -1,0 +1,3 @@
+module LaPerseverancia {
+	requires junit;
+}
